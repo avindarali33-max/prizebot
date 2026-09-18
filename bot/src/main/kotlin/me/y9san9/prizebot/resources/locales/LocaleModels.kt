@@ -54,5 +54,10 @@ val locales = listOf(
         label = "${Emoji.Flag.PORTUGAL}${Emoji.Flag.BRAZIL} Português",
         ietf = IetfLang.Portuguese,
         locale = PtLocale,
+           ) LocaleModel
+    label = "🇸🇦 العربية",
+    ietf = IetfLang.Arabic,
+    locale = ArLocale,
+),)
     ),
 )
